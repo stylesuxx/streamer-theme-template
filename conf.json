@@ -1,11 +1,22 @@
 {
   "1": {
+   "image": "images/2.jpg",
+    "feed": {
+    "col": [310],
+    "row": [60],
+    "width": 1300   
 
   },
     
   "2": {
+    "image": "images/2.jpg",
+    "feed": {
+    "col": [60, 1020],
+    "row": [228],
+    "width": 840   
 
   },
+  
   "3": {
 
   },
