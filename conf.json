@@ -27,7 +27,17 @@
     "row": [60, 522],
     "width": 626 
 
-  },
+  }, 
+   "pilot": {
+   "col": [171, 1135],
+   "row": [50, 1035],
+   "font": {
+   "font": "helvetica",
+   "size": 50,
+   "color": "BLACK",
+   "weight": 700
+      }
+    
   "6": {
     "image": "images/6.jpg",
     "feed": {
