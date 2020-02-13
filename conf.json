@@ -40,13 +40,13 @@
 	"3": {
 		"image": "images/3.jpg",
 		"feed": {
-			"col": [0, 0],
+			"col": [6, 644, 1281],
 			"row": [0],
 			"width": 0
 		},
 		"pilot": {
 			"col": [10, 650, 1290],
-			"row": [55, 1060],
+			"row": [302],
 			"font": {
 				"font": "helvetica",
 				"size": 50,
